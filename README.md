@@ -1,4 +1,4 @@
-
+  
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -69,11 +69,11 @@
     <!-- Logo (puedes cambiar la ruta por tu logo real) -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Logo Corepsa">
     
-    <h1>¡Bienvenido a Gang!</h1>
+    <h1>¡Bienvenido a MAFE!</h1>
     <p>Soluciones estructurales de alta ingeniería para la infraestructura vial del Perú.</p>
     
     <!-- Botón que lleva a gang.html -->
-    <a href="mafe.html" class="btn">Ir a la página</a>
+    <a href="index.html" class="btn">Ir a la página</a>
   </div>
 
 </body>
